@@ -1,3 +1,5 @@
+// This is our Calculator class
+
 class Calculator {
   constructor() {
     this.calculatorResult = 0;
