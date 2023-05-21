@@ -16,7 +16,7 @@ To get started with the project, follow the steps below:
 
 1. Clone the repository:
 
-``git clone https://github.com/SofiaCoder/webb22_alm_cicd.git``
+``git clone https://github.com/johanbacklin/webb22_alm_cicd.git``
 
 2. Navigate to the project directory:
 
